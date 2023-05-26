@@ -1,10 +1,10 @@
 # Site settings
-title: CrazyBai Blog
-SEOTitle: CrazyBai的博客 | CrazyBai Blog
+title: CrazyRabbit Blog
+SEOTitle: CrazyRabbit的博客 | CrazyRabbit Blog
 header-img: img/post-bg-desk.jpg
 email: 1814081506@qq.com
 description: "知难行易"
-keyword: "CrazyBai, CrazyBai Blog, 小白的博客, Android, FrameWork, Frida, Python"
+keyword: "CrazyRabbit, CrazyRabbit Blog, 小白的博客, Android, FrameWork, Frida, Python"
 url: "http://crazymrbai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CrazyMrBai/CrazyMrBai.github.io.git" # you code repository
@@ -84,7 +84,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
